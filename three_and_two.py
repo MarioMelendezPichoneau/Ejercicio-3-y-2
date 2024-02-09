@@ -5,6 +5,7 @@ import random
 #https://colab.research.google.com/drive/1Z1YsmNdmRALB_cCBe9B5r5p4IoMIiVYJ#scrollTo=1J6nVO3vCV7-&line=3&uniqifier=1
 
 
+
 def crear_mazo():
     valores_carta = ["2", "3", "4", "5", "6", "7", "8", "9", "10", "J", "Q", "K", "A"]
     tipos_carta = ["H", "D", "C", "S"]
